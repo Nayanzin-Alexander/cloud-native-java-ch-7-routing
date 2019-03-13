@@ -7,12 +7,9 @@
         <groupId>com.nayanzin</groupId>
         <artifactId>ch-7-routing</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
     <artifactId>routing-eureka-server</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>routing-eureka-server</name>
 
     <dependencies>
         <dependency>
